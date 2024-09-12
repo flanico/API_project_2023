@@ -6,4 +6,4 @@ This individual project aims to apply the techniques learned during the 'Algorit
 
 The solution was evaluated with a score of 30/30, awarded through automated tests based on memory usage and computation time.
 
-For more information about the requirements, read [specification.pdf] (https://github.com/flanico/API_project_2023/blob/main/Specification.pdf)
+For more information about the requirements, read [Specification.pdf](https://github.com/flanico/API_project_2023/blob/main/Specification.pdf).
